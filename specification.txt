@@ -1,0 +1,24 @@
+HTML tags used:
+1. nav
+2. header
+3. section
+4. main
+5. footer
+6. ul
+7. li
+8. strong
+9. em
+10. blockquote
+
+CSS selectors used:
+1. body (tag)
+2. .jumbotron (class)
+3. #name (id)
+4. nav a (descendant)
+5. a:hover (pseudo-class)
+
+Bootstrap:
+Used Bootstrap’s navbar, buttons, grid system, and form styling.
+
+JavaScript:
+Added interactivity with alert messages, button click action, and form validation.
